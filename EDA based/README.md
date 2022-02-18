@@ -48,3 +48,6 @@
       2. You want to create linear relationships → Create quadratic or higher level functions
       3. You can think of variables/information that is missing from your dataset → Create this variable using a function of variables you do have
       
+      
+
+[Reference](https://levelup.gitconnected.com/cozy-up-with-your-data-6aedfb651172)
