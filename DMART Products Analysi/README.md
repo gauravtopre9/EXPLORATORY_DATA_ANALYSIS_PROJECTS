@@ -48,6 +48,9 @@ Avenue Supermarts Limited, d/b/a DMart, is an Indian retail corporation that ope
  
  ![image](https://user-images.githubusercontent.com/80534916/187941206-aa905d44-10e5-42ad-af1a-e068ab4837f1.png)
  
+ 
+  **From here only we can directly conclude that max products will be having Skin in their description so maximum number of products will be from personal care category.**
+ 
  4. The dataset was having few flaus as **Wonderchef, Syska,pigeon,Zebronic,Geep,Joyo Plastic and Butterfly** were mentioned as categories whereas they are the names of brands, so we have corrected them.
     
     * Zebronic is a Mobile Appliances manifacturing Company so category for these columns will be Appliances and Subcategory will be appliances only.
